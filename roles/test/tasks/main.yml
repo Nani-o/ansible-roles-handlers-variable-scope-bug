@@ -3,5 +3,5 @@
     var: "variable"
 
 - shell: "ls"
-  notify: "run handler"
+  notify: "run_handler"
 ...
