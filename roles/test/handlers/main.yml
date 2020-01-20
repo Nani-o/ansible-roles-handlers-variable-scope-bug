@@ -1,0 +1,5 @@
+---
+- name: "{{ variable }}"
+  shell: "ls"
+  listen: run_handler
+...
